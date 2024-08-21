@@ -1,4 +1,4 @@
-# CSV Graph Visualization from SQL Schema
+# Graph Visualization from SQL Schema
 
 This project parses an SQL schema to extract table definitions, primary keys, and foreign keys, and then visualizes the relationships between tables as a graph. The nodes in the graph represent tables, and the edges represent foreign key relationships.
 
