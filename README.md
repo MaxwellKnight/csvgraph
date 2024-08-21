@@ -39,9 +39,9 @@ pip install networkx matplotlib
 
 ```bash
 python main.py
-This will:
 ```
 
+This will:
 - Parse the SQL schema.
 - Create a graph based on the filtered tables and foreign key relationships.
 - Compress the graph by adding direct edges between related tables.
